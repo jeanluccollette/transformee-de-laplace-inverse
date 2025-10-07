@@ -40,4 +40,10 @@ $$F_{n-1}(p)=F_n(p)-\dfrac{a_n}{(p-p_0)^n}$$
 
 $$a_{n-1}=F_{n-1}(p)(p-p_0)^{n-1}|_{p=p_0}$$
 
+## Le Notebook
+
+[Version sur ce dépôt](transformee-de-laplace-inverse.ipynb)
+
+[Version sur Google Colab](https://colab.research.google.com/drive/1QFP2hEKg-0lrkFroXCtD9xHtFhaUhLSr?usp=sharing)
+
 
