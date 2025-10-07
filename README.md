@@ -20,7 +20,7 @@ $$a_1=\dfrac{P(p_0)}{B(p_0)}=F(p)(p-p_0)|_{p=p_0}$$
 
 ### Cas d'un pôle $p_0$ d'ordre de multiplicité N supérieur à 1
 
-$$F(s)=\dfrac{P(p)}{Q(p)}=\dfrac{P(p)}{B(p)(p-p_0)^N}=K(s)+\Sigma_{n=1}^N\dfrac{a_n}{(p-p_0)^n}$$
+$$F(s)=\dfrac{P(p)}{Q(p)}=\dfrac{P(p)}{B(p)(p-p_0)^N}=K(p)+\Sigma_{n=1}^N\dfrac{a_n}{(p-p_0)^n}$$
 
 $$a_N=\dfrac{P(p_0)}{B(p_0)}=F(p)(p-p_0)^N|_{p=p_0}$$
 
