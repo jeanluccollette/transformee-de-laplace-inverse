@@ -8,7 +8,7 @@ Pour revenir à l'expression temporelle de la solution, il faut procéder à la 
 
 L'idée ici est d'illustrer les méthodes de calcul via le package **sympy** de calcul symbolique. Mais il reste préférable de pouvoir **mener ces calculs avec un crayon et un papier**.
 
-La validation s'effectuera avec la fonction **impulse_response** du package **control**.
+La validation s'effectuera avec la fonction **impulse** du package **scipy.signal**.
 
 ## Méthodes de calcul
 
