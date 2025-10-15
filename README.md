@@ -14,7 +14,7 @@ La validation s'effectuera avec la fonction **impulse** du package **scipy.signa
 
 ### Introduction
 
-La **méthode 1** réalise les calculs de façon littérale, et les applications numériques s'effectuent a posteriori. Cependant, la "lourdeur" des expressions littérales dans les calculs finit par ne plud donner de résultats pour des degrés du dénominateur trop élevés.
+La **méthode 1** réalise les calculs de façon littérale, et les applications numériques s'effectuent a posteriori. Cependant, la "lourdeur" des expressions littérales dans les calculs finit par ne plus donner de résultats cohérents pour des degrés du dénominateur trop élevés.
 
 La **méthode 2** réalise les calculs de façon numérique, avec la nécessité parfois de réaliser des corrections dans la division de polynôme, à cause des erreurs arithmétiques en cours de calcul. Moyennant ces corrections, la méthode réalise correctement la décomposition quel que soit le degré du dénominateur.
 
