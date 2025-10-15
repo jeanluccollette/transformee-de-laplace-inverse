@@ -29,11 +29,15 @@ $$F(p)=\dfrac{P(p)}{Q(p)}=\dfrac{P(p)}{B(p)(p-p_0)^N}=K(p)+\Sigma_{n=1}^N\dfrac{
 $$a_N=\dfrac{P(p_0)}{B(p_0)}=F(p)(p-p_0)^N|_{p=p_0}$$
 
 Par récurrence sur N étapes incluant la première étape :
+
 ---
+
 Initialisation
 
 $$F_n(p)=F(p)$$
+
 ---
+
 Pour $n$ variant de $N$ à $1$ :
 
 $$a_n=F_n(p)(p-p_0)^n|_{p=p_0}$$
