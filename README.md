@@ -53,10 +53,14 @@ Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipe
 
 ### Méthode 1
 
-[Version sur ce dépôt](tl_inv_m1.ipynb)
+[Version sur ce dépôt](tlinv_m1.ipynb)
 
-[Version sur Google Colab](https://colab.research.google.com/drive/1QFP2hEKg-0lrkFroXCtD9xHtFhaUhLSr?usp=sharing)
+[Version sur Google Colab](https://colab.research.google.com/drive/12iWWqLLKzbYbD0LhHG_JLTZ3FZqfgqiy?usp=drive_link)
 
 ### Méthode 2
+
+[Version sur ce dépôt](tlinv_m2.ipynb)
+
+[Version sur Google Colab](https://colab.research.google.com/drive/15iYWK2h_2Gl8zvk7ZnO46xpMxzoEQJEr?usp=drive_link)
 
 
