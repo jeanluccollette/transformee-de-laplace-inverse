@@ -49,10 +49,14 @@ $$F_n(p)=F_n(p)-\dfrac{a_n}{(p-p_0)^n}$$
 Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipedia.org/w/index.php?title=D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples) à la rubrique **Éléments simples associés à un pôle multiple**.
 
 
-## Le Notebook
+## Les Notebooks
 
-[Version sur ce dépôt](transformee-de-laplace-inverse.ipynb)
+### Méthode 1
+
+[Version sur ce dépôt](tl_inv_m1.ipynb)
 
 [Version sur Google Colab](https://colab.research.google.com/drive/1QFP2hEKg-0lrkFroXCtD9xHtFhaUhLSr?usp=sharing)
+
+### Méthode 2
 
 
