@@ -18,6 +18,8 @@ La **méthode 1** réalise les calculs de façon littérale, et les applications
 
 La **méthode 2** réalise les calculs de façon numérique, avec la nécessité parfois de réaliser des corrections dans la division de polynôme, à cause des erreurs arithmétiques en cours de calcul. Moyennant ces corrections, la méthode réalise correctement la décomposition quel que soit le degré du dénominateur.
 
+En conclusion, cette seconde méthode fonctionne toujours correctement, dans des conditions qui, en revanche, aboutissent parfois à de mauvais résultats avec les méthodes **apart** ou **inverse_laplace_transform** de **sympy**.
+
 ### Méthode 1
 
 * Cas d'un pôle $p_0$ simple
