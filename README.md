@@ -12,13 +12,15 @@ La validation s'effectuera avec la fonction **impulse** du package **scipy.signa
 
 ## Méthodes de calcul
 
-### Cas d'un pôle $p_0$ simple
+### Méthode 1
+
+* Cas d'un pôle $p_0$ simple
 
 $$F(p)=\dfrac{P(p)}{Q(p)}=\dfrac{P(p)}{B(p)(p-p_0)}=K(p)+\dfrac{a_1}{(p-p_0)}$$
 
 $$a_1=\dfrac{P(p_0)}{B(p_0)}=F(p)(p-p_0)|_{p=p_0}$$
 
-### Cas d'un pôle $p_0$ d'ordre de multiplicité N supérieur à 1
+* Cas d'un pôle $p_0$ d'ordre de multiplicité N supérieur à 1
 
 Première étape pour récupérer le terme de plus haut degré :
 
