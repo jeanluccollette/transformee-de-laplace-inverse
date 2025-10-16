@@ -70,6 +70,6 @@ Remarque : les erreurs arithmétiques sont corrigées, le cas échéant.
 
 [Version sur ce dépôt](tlinv_m2.ipynb)
 
-[Version sur Google Colab](https://colab.research.google.com/drive/15iYWK2h_2Gl8zvk7ZnO46xpMxzoEQJEr?usp=drive_link)
+[Version sur Google Colab](https://colab.research.google.com/drive/1PDHuEOMK2lnMBFB8r_vEqeuznw5TgrCv?usp=drive_link)
 
 
