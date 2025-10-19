@@ -54,7 +54,7 @@ $$F_n(p)=F_n(p)-\dfrac{a_n}{(p-p_0)^n}$$
 
 ### Méthode 2
 
-Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipedia.org/w/index.php?title=D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples) à la rubrique **Éléments simples associés à un pôle multiple**.
+Voir la page Wikipédia [Décomposition en éléments simples]([https://fr.wikipedia.org/w/index.php?title=D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples](https://fr.wikipedia.org/wiki/D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples#%C3%89l%C3%A9ments_simples_associ%C3%A9s_%C3%A0_un_p%C3%B4le_multiple) à la rubrique **Éléments simples associés à un pôle multiple**.
 
 Remarque : les erreurs arithmétiques sont corrigées, le cas échéant.
 
