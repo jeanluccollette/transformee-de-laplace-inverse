@@ -16,7 +16,7 @@ La validation s'effectuera avec la fonction **impulse** du package **scipy.signa
 
 La **méthode 1** réalise les calculs de façon littérale, et les applications numériques s'effectuent a posteriori. Cependant, la "lourdeur" des expressions littérales dans les calculs finit par ne plus donner de résultats cohérents pour des degrés du dénominateur trop élevés.
 
-La **méthode 2** réalise les calculs de façon numérique, avec l'apparition parfois de monômes à coefficient non nul dans le polynôme $R(y)$ alors qu'ils devraient l'être, lors de la division de polynôme, à cause des erreurs arithmétiques en cours de calcul. Malgré ces erreurs desquels résultent des coefficients très faibles au lieu d'être nuls, la méthode réalise correctement la décomposition quel que soit le degré du dénominateur.
+La **méthode 2** réalise les calculs de façon numérique, avec l'apparition parfois de monômes à coefficient non nul dans le polynôme $R(y)$ alors qu'ils devraient l'être lors de la division de polynôme, à cause des erreurs arithmétiques en cours de calcul. Malgré ces erreurs desquels résultent des coefficients très faibles au lieu d'être nuls, la méthode réalise correctement la décomposition quel que soit le degré du dénominateur.
 
 En conclusion, cette seconde méthode fonctionne toujours correctement, dans des conditions qui, en revanche, aboutissent parfois à de mauvais résultats avec les méthodes **apart** ou **inverse_laplace_transform** de **sympy**.
 
