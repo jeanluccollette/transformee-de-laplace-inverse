@@ -14,7 +14,7 @@ La validation s'effectuera avec la fonction **impulse** du package **scipy.signa
 
 ### Introduction
 
-Pour les deux méthodes présentées ci-dessous, la transformée de Laplace se présente sous la forme d'une fraction rationnelle dont on connaît les pôles et les zéros, ainsi que leur ordre de mulitiplicité.
+Pour les deux méthodes présentées ci-dessous, la transformée de Laplace se présente sous la forme d'une fraction rationnelle dont on connaît les pôles et les zéros, ainsi que leur ordre de multiplicité.
 
 La **méthode 1** réalise les calculs de façon littérale, et les applications numériques s'effectuent a posteriori. Cependant, la "lourdeur" des expressions littérales dans les calculs finit par ne plus donner de résultats cohérents pour des degrés du dénominateur trop élevés.
 
