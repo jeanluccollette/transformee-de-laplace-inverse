@@ -14,7 +14,7 @@ La validation s'effectuera avec la fonction **impulse** du package **scipy.signa
 
 Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipedia.org/wiki/D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples#%C3%89l%C3%A9ments_simples_associ%C3%A9s_%C3%A0_un_p%C3%B4le_multiple) à la rubrique **Éléments simples associés à un pôle multiple**.
 
-La méthode réalise les calculs de façon numérique, avec l'apparition parfois de monômes à coefficient non nul dans le polynôme $R(y)$ alors qu'ils devraient l'être lors de la division de polynôme, à cause des erreurs arithmétiques en cours de calcul. Malgré ces erreurs desquels résultent des coefficients néanmoins très faibles au lieu d'être nuls, la méthode réalise correctement la décomposition quel que soit le degré du dénominateur.
+La fonction qui fait appel à cette méthode réalise les calculs de façon numérique, avec l'apparition parfois de monômes à coefficient non nul dans le polynôme $R(y)$ alors qu'ils devraient l'être lors de la division de polynôme, à cause des erreurs arithmétiques en cours de calcul. Malgré ces erreurs desquels résultent des coefficients néanmoins très faibles au lieu d'être nuls, la méthode réalise correctement la décomposition quel que soit le degré du dénominateur.
 
 En conclusion, cette méthode fonctionne toujours correctement, dans des conditions qui, en revanche, aboutissent parfois à de mauvais résultats avec les méthodes **apart** ou **inverse_laplace_transform** de **sympy**.
 
