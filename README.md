@@ -16,7 +16,7 @@ Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipe
 
 La méthode réalise les calculs de façon numérique, avec l'apparition parfois de monômes à coefficient non nul dans le polynôme $R(y)$ alors qu'ils devraient l'être lors de la division de polynôme, à cause des erreurs arithmétiques en cours de calcul. Malgré ces erreurs desquels résultent des coefficients néanmoins très faibles au lieu d'être nuls, la méthode réalise correctement la décomposition quel que soit le degré du dénominateur.
 
-En conclusion, cette seconde méthode fonctionne toujours correctement, dans des conditions qui, en revanche, aboutissent parfois à de mauvais résultats avec les méthodes **apart** ou **inverse_laplace_transform** de **sympy**.
+En conclusion, cette méthode fonctionne toujours correctement, dans des conditions qui, en revanche, aboutissent parfois à de mauvais résultats avec les méthodes **apart** ou **inverse_laplace_transform** de **sympy**.
 
 ## Le Notebook
 
