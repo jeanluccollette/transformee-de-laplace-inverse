@@ -58,18 +58,9 @@ $$F_n(p)=F_n(p)-\dfrac{a_n}{(p-p_0)^n}$$
 
 Voir la page Wikipédia [Décomposition en éléments simples](https://fr.wikipedia.org/wiki/D%C3%A9composition_en_%C3%A9l%C3%A9ments_simples#%C3%89l%C3%A9ments_simples_associ%C3%A9s_%C3%A0_un_p%C3%B4le_multiple) à la rubrique **Éléments simples associés à un pôle multiple**.
 
-## Les Notebooks
+## Le Notebook
 
-### Méthode 1
+[Version sur ce dépôt](tlinv.ipynb)
 
-[Version sur ce dépôt](tlinv_m1.ipynb)
-
-[Version sur Google Colab](https://colab.research.google.com/drive/12iWWqLLKzbYbD0LhHG_JLTZ3FZqfgqiy?usp=drive_link)
-
-### Méthode 2
-
-[Version sur ce dépôt](tlinv_m2.ipynb)
-
-[Version sur Google Colab](https://colab.research.google.com/drive/1PDHuEOMK2lnMBFB8r_vEqeuznw5TgrCv?usp=drive_link)
-
+[Version sur Google Colab](https://colab.research.google.com/drive/1tRv40an9F6WMwOGtceiDpGqu-Jiq6ATj?usp=drive_link)
 
